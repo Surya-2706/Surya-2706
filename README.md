@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Surya-2706
 - 👀 I’m interested in Python,Html,css and Django,Javascript 
-- 🌱 I’m currently learning python and django, web development 
+- 🌱 I’m currently learning python and django, web development, C#.Net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...My linked in profile -- https://www.linkedin.com/in/s-u-r-y-a-80b088210
 
